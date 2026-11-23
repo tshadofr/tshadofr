@@ -5,7 +5,7 @@ struct Tshado {
     int age = 19;
     std::string studying = "computer engineering";
     std::vector<std::string> code = {"C++", "Java", "Rust", "Go"};
-    std::vector<std::string> design = {"After Effects", "Figma"};
+    std::vector<std::string> design = {"After Effects", "Premiere Pro", "Blender", "Figma"};
     std::string does = "motion design for music artists";
 };
 ```
@@ -14,7 +14,7 @@ struct Tshado {
 
 ### tools
 
-<img src="https://skillicons.dev/icons?i=cpp,java,rust,go,js,ts,ae,figma&perline=8" />
+<img src="https://skillicons.dev/icons?i=cpp,java,rust,go,js,ts,ae,pr,blender,figma&perline=10" />
 
 ### stats
 
