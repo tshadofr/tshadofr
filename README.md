@@ -5,7 +5,8 @@ struct Tshado {
     int age = 19;
     std::string studying = "computer engineering";
     std::vector<std::string> code = {"C++", "Java", "Rust", "Go"};
-    std::vector<std::string> design = {"After Effects", "Premiere Pro", "Blender", "Figma"};
+    std::vector<std::string> design = {"After Effects", "Premiere Pro",
+                                       "Blender", "Figma"};
     std::string does = "motion design for music artists";
 };
 ```
